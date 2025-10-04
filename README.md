@@ -2,7 +2,7 @@ Olá! Meu nome é **Felipe Serra Silva**, sou estudante de Engenharia da Computa
 
 Sou apaixonado por resolver problemas complexos por meio da tecnologia. Desde cedo, participei de competições de robótica (FIRST Lego League) e olimpíadas científicas, o que despertou meu interesse por programação, automação e sistemas inteligentes.
 
-Atualmente, desenvolvo projetos nas áreas de ciência de dados, inteligência artificial e automação de processos. Tenho experiência com Python, SQL, Power BI e VBA, aplicando essas ferramentas em projetos acadêmicos e de pesquisa. No Metricis, atuo com a base global Outcome-Based Contracts (OBC), automatizando processos e analisando dados em Python.
+Atualmente, desenvolvo projetos nas áreas de ciência de dados, inteligência artificial e automação de processos. Tenho experiência com Python, Power BI e VBA, aplicando essas ferramentas em projetos acadêmicos e de pesquisa. No Metricis, atuo com a base global Outcome-Based Contracts (OBC), automatizando processos e analisando dados em Python.
 
 Também sou monitor de Modelagem e Simulação e Ciência de Dados, auxiliando mais de 45 alunos na aplicação de algoritmos e análise computacional. No Insper Fintech, participei de projetos com o PagBank, unindo tecnologia e negócios para análise de mercado e risco.
 
