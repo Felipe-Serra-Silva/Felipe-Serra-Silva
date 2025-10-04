@@ -1,12 +1,12 @@
-Olá! Meu nome é **Felipe Serra Silva**, e sou estudante de **Engenharia da Computação no Insper** no **Instituto de Ensino e Pesquisa Insper**, onde conquistei bolsa integral e finalizei o primeiro ano como 1º colocado da turma (CR1).
+Olá! Meu nome é **Felipe Serra Silva**, sou estudante de Engenharia da Computação no **Insper – Instituto de Ensino e Pesquisa**, onde conquistei bolsa integral e finalizei o primeiro ano como 1º colocado da turma (CR1).
 
-Sou movido pela curiosidade de entender como as coisas funcionam e pela vontade de criar soluções que gerem impacto real. Desde cedo, participei de competições de robótica (FIRST Lego League) e olimpíadas científicas (OBF, OBR), experiências que despertaram em mim o gosto por resolver problemas complexos de forma prática e criativa.
+Sou apaixonado por resolver problemas complexos por meio da tecnologia. Desde cedo, participei de competições de robótica (FIRST Lego League) e olimpíadas científicas, o que despertou meu interesse por programação, automação e sistemas inteligentes.
 
-Hoje, aplico esse mesmo espírito explorador em áreas como ciência de dados, automação, inteligência artificial e finanças. Atuo como monitor de Modelagem e Simulação e Ciência de Dados no Insper, e também como auxiliar de pesquisa no Metricis, onde trabalho com a base global Outcome-Based Contracts (OBC), utilizando Python e NVivo para análise e organização de dados.
+Atualmente, desenvolvo projetos nas áreas de ciência de dados, inteligência artificial e automação de processos. Tenho experiência com Python, SQL, Power BI e VBA, aplicando essas ferramentas em projetos acadêmicos e de pesquisa. No Metricis, atuo com a base global Outcome-Based Contracts (OBC), automatizando processos e analisando dados em Python.
 
-Além disso, sou membro do Insper Fintech, onde desenvolvi projetos para o PagBank envolvendo análise de mercado, risco e APIs, e liderei o processo de Gestão de Pessoas, conduzindo o recrutamento de mais de 40 candidatos.
+Também sou monitor de Modelagem e Simulação e Ciência de Dados, auxiliando mais de 45 alunos na aplicação de algoritmos e análise computacional. No Insper Fintech, participei de projetos com o PagBank, unindo tecnologia e negócios para análise de mercado e risco.
 
-Acredito que tecnologia e finanças têm o poder de transformar o mundo — e meu objetivo é estar na linha de frente dessa interseção, construindo soluções inovadoras, eficientes e que causem impacto mensurável.
+Busco constantemente aprimorar minhas habilidades em desenvolvimento web, machine learning e data engineering, com o objetivo de criar soluções escaláveis, eficientes e que realmente gerem impacto.
 
 ---
 
