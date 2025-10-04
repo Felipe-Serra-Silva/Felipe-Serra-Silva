@@ -1,4 +1,4 @@
-### Sobre mim:
+# Sobre mim:
 
 Olá! Meu nome é **Felipe Serra Silva**, sou estudante de Engenharia da Computação no **Insper – Instituto de Ensino e Pesquisa**, onde conquistei bolsa integral e finalizei o primeiro ano como 1º colocado da turma (CR1).
 
